@@ -1,0 +1,6 @@
+{
+  "name": "Sabores Mediterrânicos",
+  "description": "Sabores Mediterrânicos: Serviço de catering em Lisboa para aniversários, festas e celebrações. Entregas a partir de 10 pessoas (até 50). Peça um orçamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
